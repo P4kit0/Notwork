@@ -4801,7 +4801,7 @@
 		"stations": [{
 			"name": "HUSTLER",
 			"image": "https://i.ibb.co/jVB1bwy/NBA-Logo.jpg",
-			"url" : "https://ad2.npsql.xyz:2053/tv/hustlertv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyMyAxMjozODozOCBQTSZoYXNoX3ZhbHVlPW5jN05PNWFPMWRjcVk4c1ZRSHZ1MUE9PSZ2YWxpZG1pbnV0ZXM9NjA=",
+			"url" : "https://adult-tv-channels.com/brazzers-tv-online/",
 			"referer" : "http://adult-tv-channels.com/",
 			"isHost":"true"
 			    }]
