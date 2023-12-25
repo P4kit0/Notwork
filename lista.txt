@@ -4801,9 +4801,8 @@
 		"stations": [{
 			"name": "HUSTLER",
 			"image": "https://i.ibb.co/jVB1bwy/NBA-Logo.jpg",
-			"url" : "https://adult-tv-channels.com/brazzers-tv-online/",
-			"referer" : "http://adult-tv-channels.com/",
-			"isHost":"true"
+			"url" : "https://adult-tv-channels.com/tv/brazzerstv.php",
+			"isHost": "true"
 			    }]
 			   
           }, {
