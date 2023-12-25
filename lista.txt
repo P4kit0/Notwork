@@ -4802,7 +4802,7 @@
 			"name": "HUSTLER",
 			"image": "https://i.ibb.co/jVB1bwy/NBA-Logo.jpg",
 			"url" : "https://ad2.npsql.xyz:2053/tv/hustlertv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyMyAxMjozODozOCBQTSZoYXNoX3ZhbHVlPW5jN05PNWFPMWRjcVk4c1ZRSHZ1MUE9PSZ2YWxpZG1pbnV0ZXM9NjA=",
-			"isHost": "true"
+			 "userAgent" : ""
 			    }]
 			   
           }, {
