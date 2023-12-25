@@ -4802,6 +4802,7 @@
 			"name": "HUSTLER",
 			"image": "https://i.ibb.co/jVB1bwy/NBA-Logo.jpg",
 			"url" : "https://adult-tv-channels.com/tv/brazzerstv.php",
+			"referer": "https://adult-tv-channels.com/",
 			"isHost": "true"
 			    }]
 			   
